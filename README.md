@@ -1,4 +1,4 @@
-# MLAdvancedProject
+# Predicting Term Deposit Subscriptions
 
 ## Project Description
 
